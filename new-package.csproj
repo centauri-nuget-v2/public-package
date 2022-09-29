@@ -13,6 +13,6 @@
   </PropertyGroup>
   
    <ItemGroup>
-      <PackageReference Include="sh-runner-public-package" Version="3.0.0" />
+      <PackageReference Include="public-package" Version="1.0.0" />
   </ItemGroup>
 </Project>
